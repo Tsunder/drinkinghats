@@ -479,5 +479,23 @@
       [ [ "wetsuit_hood", 1 ] ],
       [ [ "duct_tape", 125 ] ]
     ]
+  },
+  {
+    "result": "wetsuit_hood_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HEAD",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "wetsuit_hood", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
   }
 ]
