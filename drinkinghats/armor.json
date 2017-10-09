@@ -592,5 +592,32 @@
       "material_thickness": 3
     },
     "flags": [ "STURDY", "SKINTIGHT" ]
+  },
+  {
+    "id": "hood_h20survivor_drinking",
+    "type": "CONTAINER",
+    "category": "armor",
+    "name": "survivor wetsuit drinking hood",
+    "description": "A customized armored neoprene and kevlar hood, very strong and durable. Modified to carry drinks hands-free, perfect for events!",
+    "weight": 860,
+    "volume": 6,
+    "price": 58000,
+    "to_hit": -1,
+    "bashing": 10,
+    "material": [ "kevlar", "plastic", "neoprene" ],
+    "symbol": "[",
+    "color": "dark_gray",
+    "contains": 2,
+    "seals": true,
+    "watertight": true,
+    "armor_data" : {
+      "covers": [ "HEAD" ],
+      "coverage": 100,
+      "encumbrance": 25,
+      "warmth": 15,
+      "material_thickness": 2,
+      "environmental_protection": 10
+    },
+    "flags": [ "VARSIZE", "WATER_FRIENDLY", "STURDY", "OUTER" ]
   }
 ]
