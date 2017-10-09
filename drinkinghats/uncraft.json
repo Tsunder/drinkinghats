@@ -228,5 +228,16 @@
       [ [ "hose", 1 ] ],
       [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ]
     ] 
+  },
+  {
+    "result": "wetsuit_hood_drinking",
+    "type": "uncraft",
+    "time" : 500,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "wetsuit_hood", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ]
+    ] 
   }
 ]
