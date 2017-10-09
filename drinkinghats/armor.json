@@ -619,5 +619,29 @@
       "environmental_protection": 10
     },
     "flags": [ "VARSIZE", "WATER_FRIENDLY", "STURDY", "OUTER" ]
+  },
+  {
+    "id": "wetsuit_hood_drinking",
+    "type": "CONTAINER",
+    "name": "drinking wetsuit hood",
+    "description": "A neoprene hood, commonly worn by divers. Modified to carry drinks hands-free, perfect for events!",
+    "weight": 270,
+    "volume": 4,
+    "price": 4500,
+    "material": [ "neoprene", "cotton" ],
+    "symbol": "[",
+    "color": "dark_gray",
+    "contains": 2,
+    "seals": true,
+    "watertight": true,
+    "armor_data" : {
+      "covers": [ "HEAD" ],
+      "coverage": 100,
+      "encumbrance": 10,
+      "warmth": 30,
+      "material_thickness": 1,
+      "environmental_protection": 1
+    },
+    "flags": [ "VARSIZE", "WATER_FRIENDLY", "SKINTIGHT" ]
   }
 ]
