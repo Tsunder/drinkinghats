@@ -1,27 +1,9 @@
 [
   {
-    "result": "10gal_hat_drinking",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
-    "skill_used": "tailor",
-    "difficulty": 2,
-    "skills_required": [ "fabrication", 2 ],
-    "time": 10000,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ 
-      [ [ "10gal_hat", 1] ],
-      [ [ "hose", 1 ] ],
-      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
-      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
-    ] 
-  },
-  {
     "result": "helmet_lobster_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -39,7 +21,7 @@
     "result": "helmet_motor_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -54,28 +36,10 @@
     ] 
   },
   {
-    "result": "bowhat_drinking",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
-    "skill_used": "tailor",
-    "difficulty": 2,
-    "skills_required": [ "fabrication", 2 ],
-    "time": 10000,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ 
-      [ [ "bowhat", 1] ],
-      [ [ "hose", 1 ] ],
-      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
-      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
-    ] 
-  },
-  {
     "result": "firehelmet_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -90,28 +54,10 @@
     ] 
   },
   {
-    "result": "hat_ball_drinking",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
-    "skill_used": "tailor",
-    "difficulty": 2,
-    "skills_required": [ "fabrication", 2 ],
-    "time": 10000,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ 
-      [ [ "hat_ball", 1] ],
-      [ [ "hose", 1 ] ],
-      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
-      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
-    ] 
-  },
-  {
     "result": "hat_hard_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -129,7 +75,7 @@
     "result": "hat_hard_hooded_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -144,46 +90,10 @@
     ] 
   },
   {
-    "result": "hat_sombrero_drinking",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
-    "skill_used": "tailor",
-    "difficulty": 2,
-    "skills_required": [ "fabrication", 2 ],
-    "time": 10000,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ 
-      [ [ "hat_sombrero", 1] ],
-      [ [ "hose", 1 ] ],
-      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
-      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
-    ] 
-  },
-  {
-    "result": "tricorne_drinking",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
-    "skill_used": "tailor",
-    "difficulty": 2,
-    "skills_required": [ "fabrication", 2 ],
-    "time": 10000,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ 
-      [ [ "tricorne", 1] ],
-      [ [ "hose", 1 ] ],
-      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
-      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
-    ] 
-  },
-  {
     "result": "headgear_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -201,7 +111,7 @@
     "result": "helmet_bike_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -219,7 +129,7 @@
     "result": "helmet_football_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -237,7 +147,7 @@
     "result": "helmet_skid_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -252,28 +162,10 @@
     ] 
   },
   {
-    "result": "porkpie_drinking",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
-    "skill_used": "tailor",
-    "difficulty": 2,
-    "skills_required": [ "fabrication", 2 ],
-    "time": 10000,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ 
-      [ [ "porkpie", 1] ],
-      [ [ "hose", 1 ] ],
-      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
-      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
-    ] 
-  },
-  {
     "result": "tac_helmet_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -291,7 +183,7 @@
     "result": "helmet_army_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -306,28 +198,10 @@
     ] 
   },
   {
-    "result": "tophat_drinking",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
-    "skill_used": "tailor",
-    "difficulty": 2,
-    "skills_required": [ "fabrication", 2 ],
-    "time": 10000,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ 
-      [ [ "tophat", 1] ],
-      [ [ "hose", 1 ] ],
-      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
-      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
-    ] 
-  },
-  {
     "result": "kevlar_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -345,7 +219,7 @@
     "result": "helmet_survivor_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 6,
     "skills_required": [ "fabrication", 4 ],
@@ -374,7 +248,7 @@
     "result": "helmet_survivor_drinkingxl",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 6,
     "skills_required": [ "fabrication", 4 ],
@@ -402,7 +276,7 @@
     "result": "helmet_xlsurvivor_drinkingxl",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 6,
     "skills_required": [ "fabrication", 4 ],
@@ -430,7 +304,7 @@
     "result": "helmet_hsurvivor_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 7,
     "skills_required": [ "fabrication", 5 ],
@@ -456,35 +330,10 @@
     ]
   },
   {
-    "result": "hood_h20survivor_drinking",
+    "result": "helmet_ball_drinking",
     "type": "recipe",
     "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
-    "skill_used": "tailor",
-    "difficulty": 7,
-    "skills_required": [ "fabrication", 6 ],
-    "time": 60000,
-    "autolearn": true,
-    "using": [ [ "filament", 40 ] ],
-    "qualities": [
-      { "id": "CUT", "level": 1 },
-      { "id": "SEW", "level": 1 }
-    ],
-    "tools": [ [ [ "welder", 28 ], [ "welder_crude", 42 ], [ "soldering_iron", 42 ], [ "toolset", 42 ] ] ],
-    "components": [
-      [ [ "hose", 1 ] ],
-      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2]],
-      [ [ "plastic_chunk", 6 ] ],
-      [ [ "kevlar_plate", 6 ] ],
-      [ [ "wetsuit_hood", 1 ] ],
-      [ [ "duct_tape", 125 ] ]
-    ]
-  },
-  {
-    "result": "wetsuit_hood_drinking",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_HEAD",
+    "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
     "difficulty": 2,
     "skills_required": [ "fabrication", 2 ],
@@ -492,7 +341,313 @@
     "autolearn": true,
     "qualities": [ { "id": "CUT", "level": 1 } ],
     "components": [ 
-      [ [ "wetsuit_hood", 1] ],
+      [ [ "helmet_ball", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "helmet_larmor_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "helmet_larmor", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "helmet_riot_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "helmet_riot", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "helmet_barbute_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "helmet_barbute", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "pickelhaube_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "pickelhaube", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "pot_helmet_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "pot_helmet", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "depowered_helmet_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "depowered_helmet", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "helmet_bone_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "helmet_bone", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "helmet_chitin_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "helmet_chitin", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "helmet_kabuto_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "helmet_kabuto", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "helmet_plate_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "helmet_plate", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "power_armor_helmet_heavy_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "power_armor_helmet_heavy", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "power_armor_helmet_basic_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "power_armor_helmet_basic", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "power_armor_helmet_light_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "power_armor_helmet_light", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "tac_fullhelmet_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "tac_fullhelmet", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "dinosuit_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "helmet_bike", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "fencing_mask",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "fencing_mask", 1] ],
+      [ [ "hose", 1 ] ],
+      [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
+      [ [ "duct_tape", 25], [ "superglue", 1 ] ]
+    ] 
+  },
+  {
+    "result": "wolfsuit_drinking",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_OTHER",
+    "skill_used": "tailor",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 2 ],
+    "time": 10000,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ 
+      [ [ "wolfsuit", 1] ],
       [ [ "hose", 1 ] ],
       [ ["bottle_plastic_small", 2 ], [ "can_drink", 2 ], [ "can_drink_unsealed", 2 ], [ "flask_hip", 2] ],
       [ [ "duct_tape", 25], [ "superglue", 1 ] ]
